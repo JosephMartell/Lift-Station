@@ -1,0 +1,5 @@
+#Ignore useless packages created by RSLogix
+*.bak*acd
+*.acd.recovery
+*.sem
+*.wrk
